@@ -1,0 +1,19 @@
+{
+ "title_id": "0004008C00008FB0",
+ "version": 2,
+ "themes": [
+  {
+   "index": 1,
+   "name": "BadgeCade",
+   "description": "The orange BadgeCade arcade with its badge logo.",
+   "zip": "themes/badgecade-sample.zip",
+   "icon": "themes/icons/badgecade.png",
+   "item_id": 4004,
+   "item_code": "18000001",
+   "publisher": "BadgeCade",
+   "details_id": "18000001",
+   "bgm": "None",
+   "granted": true
+  }
+ ]
+}
